@@ -1,0 +1,29 @@
+
+
+.button {
+	color: blue;
+	background-color: yellow;
+	width: 100px;
+	height: 20px;
+	padding: 0px;
+	border: 1px solid green;
+
+}
+
+.submit {
+	color: red;
+}
+
+#input1 {
+	float-left: 10px;
+}
+
+
+#input2 {
+	float-left: 10px;
+}
+
+
+li {
+	display: inline;
+}
